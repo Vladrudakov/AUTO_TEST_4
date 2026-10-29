@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Autonomous AI Agent",
+    "category": "AI Agents",
+    "status": "live",
+    "price": 299.00,
+    "description": "Next-generation intelligent automation agent for end-to-end task execution."
+  },
+  {
+    "id": 2,
+    "title": "Computer Vision Inspector",
+    "category": "Computer Vision",
+    "status": "beta",
+    "price": 450.00,
+    "description": "High-accuracy real-time visual inspection and defect detection engine."
+  },
+  {
+    "id": 3,
+    "title": "Natural Language Synthesizer",
+    "category": "NLP",
+    "status": "live",
+    "price": 199.00,
+    "description": "Advanced conversational transformer model optimized for domain-specific dialogues."
+  }
+]

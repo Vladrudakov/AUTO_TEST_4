@@ -1,0 +1,26 @@
+{
+  "name": "lab-4-cypress-automated-testing",
+  "version": "1.0.0",
+  "description": "Lab 4: Automated Testing with Cypress (SunInJuly & DemoStore)",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "cypress:run:suninjuly": "cypress run --spec cypress/e2e/suninjuly_math.cy.js",
+    "cypress:run:demostore": "cypress run --spec cypress/e2e/demostore.cy.js",
+    "cypress:run:all": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "automated-testing",
+    "suninjuly",
+    "demostore",
+    "e2e-testing"
+  ],
+  "author": "Vladrudakov",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^16.2.1"
+  }
+}

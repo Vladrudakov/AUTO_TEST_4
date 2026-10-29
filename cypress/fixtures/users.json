@@ -1,0 +1,14 @@
+{
+  "newUser": {
+    "firstName": "Alex",
+    "lastName": "Shevchenko",
+    "email": "student_test_alex@example.com",
+    "telephone": "+380501234567",
+    "password": "SecurePassword2026!",
+    "confirmPassword": "SecurePassword2026!"
+  },
+  "existingUser": {
+    "email": "registered_user@example.com",
+    "password": "Password123!"
+  }
+}
